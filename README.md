@@ -1,28 +1,22 @@
 # Medicinal Plant Detection (ML Project)
 
-This project uses machine learning to classify medicinal plants from images.
+Built a machine learning model to identify medicinal plants from images using Python in Google Colab.
 
-## 🧠 Overview
-Built a deep learning classifier that can identify medicinal plants from image data.
+## Overview
+This project explores how machine learning can be applied to plant identification for healthcare and educational use cases. The notebook includes data preprocessing, model training, evaluation, and sample predictions.
 
-## 📦 What’s inside
-- `medicinal_plant_detection.ipynb` – Main notebook with training, evaluation, and predictions
-- Dataset folder – images used for model training/testing
-- Results – accuracy, confusion matrix, sample predictions
+## Features
+- Image-based plant classification  
+- Data preprocessing and model training  
+- Performance evaluation and prediction analysis  
 
-## 📊 Model Details
-- Model type: (e.g., CNN using TensorFlow/PyTorch)
-- Dataset: (mention source and size)
-- Preprocessing steps
-- Evaluation metrics
+## Tech Stack
+- Python  
+- Machine Learning (CNN-based approach)  
+- Google Colab  
+- NumPy, Pandas, image processing libraries  
 
-## 🧪 How to Use
-1. Download repository  
-2. Open `medicinal_plant_detection.ipynb`  
-3. Run cells sequentially
-
-## 🧾 Demo
-(If you have sample outputs, paste screenshots here)
-
-![Accuracy chart](path/to/chart.png)
-
+## How to Run
+1. Download the notebook  
+2. Open in Google Colab or Jupyter Notebook  
+3. Run cells step by step  
